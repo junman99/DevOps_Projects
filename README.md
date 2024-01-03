@@ -1,2 +1,2 @@
 # DevOps_Projects
-DevOps Project
+DevOps projects from Udemy DevOps Course. 
